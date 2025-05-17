@@ -24,7 +24,7 @@ l = 9
 m = 5
 a = 4
 o = 2
-print(-l + m + a + o) # (the 9 in the "L" variable turns into a -9 because the "-" sign is infront of the "L" variable in the print function) adds them all and prints the result
+print(-l + m + a + o) # (the 9 in the "l" variable turns into a -9 because the "-" sign is infront of said variable in the print function) adds them all and prints the result
 
 # cubed math operator
 cubed = 5 ** 3 # add ** and then (number) turns the second number into an exponent
