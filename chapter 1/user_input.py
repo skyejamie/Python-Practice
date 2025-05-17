@@ -9,5 +9,5 @@ print(favNum) # prints out the number
 #type conversion
 num = int(input("Type a number here and it'll add by 10: ")) # create a number only input and have it be converted into an integer
 print(type(num)) # storing the integer in the num variable
-print(num) # prints the number the user inputed
+print(num) # prints the number the user inputted
 print(num + 10) # have it also print the number added by 10
